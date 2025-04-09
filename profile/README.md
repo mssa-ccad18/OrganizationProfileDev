@@ -17,7 +17,7 @@ CCAD 18 continues to inspire and lead by example, proving that teamwork and tale
 
 **BE BOLD**
 
-<u>Underline</u>
+<ins>Underline</ins>
 
 *Italicize*
 
