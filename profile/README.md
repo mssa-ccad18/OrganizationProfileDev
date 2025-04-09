@@ -86,6 +86,10 @@ Favorit code `Console.WriteLine("Hello World!");`
 
 #### MY name is David, and I love Programing.####
 
+#### Nicholas Gorton ####
+Security, Networking, DevOps, Linux, K8s, Python, C#
+Dev with a security first mindset
+
 
 
 # now i see that we  were supposed to add changes to the readme file
