@@ -12,3 +12,14 @@ CCAD 18 is a group of exceptional individuals who consistently demonstrate excel
 
 CCAD 18 continues to inspire and lead by example, proving that teamwork and talent can achieve extraordinary results.
 
+
+# now i see that we  were supposed to add changes to the readme file
+
+**BE BOLD**
+
+__Underline__
+
+*Italicize*
+
+~~Strikethrough~~
+
