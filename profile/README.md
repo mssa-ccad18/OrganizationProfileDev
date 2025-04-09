@@ -13,5 +13,85 @@ CCAD 18 is a group of exceptional individuals who consistently demonstrate excel
 CCAD 18 continues to inspire and lead by example, proving that teamwork and talent can achieve extraordinary results.
 
 
+
 #### Chris Gosseen ####
 Chris can't wait to get back to the Pacific Northwest to break into the world of software engineering/development.  
+
+#### Kyle Griffitts ####
+Kyle enjoys solving problems. 
+
+
+
+#### Luis Moran ####
+Luis is a highly skilled software engineer with a passion for developing innovative solutions. He has a strong background
+in full-stack development and is proficient in various programming languages and frameworks. Luis is known for his 
+problem-solving abilities and his dedication to delivering high-quality work. He is also an excellent communicator, 
+making him a valuable asset to any team.
+
+### Meet the Team
+
+# Tim Flinn
+Tim enjoys coding and is a big fan of C# and C++. As a huge nerd, he actively participates in video games, tabletop games, and trading card games.
+
+
+#### Justin Falardeau ####
+Justin's favorite color is purple.
+
+
+#### Tristan Payne #### 
+Tristan likes coffee and hanging out with friends. 
+
+
+#### Mike Katzer ####
+Mike is a new software engineer with a passion for coding and problem-solving. He is dedicated to learning and growing in the tech industry, always eager to take on new challenges.
+In his personal time he enjoys hiking and doing yard work.
+
+
+
+#### Isaac Choi 
+Isaac enjoys playing basketball and golf. His favorite programming language is Python. He also has a strong interest in finance and stocks.
+
+
+
+#### Rob Pegram ####
+Rob is probably more confused than it seems
+
+
+#### Victor Chin ####
+Victor's favorite language is C#, he is excited about the future Tech Stacks!
+Favorit code `Console.WriteLine("Hello World!");`
+
+#### Monica Elyse ####
+
+- cloud application developer in the works ~ ### Microsoft CCAD18 ###
+
+- i'm fond of many languages, but c++ will always be my first love
+
+- favorite platform to write code: MS Word first-- i know, brutal-- then, repl.it and c++ shell.
+
+- The best way i squash bugs in my codes: pilates, solidcore, barre.. and if all else fails, a good nights sleep
+
+- I'm looking to collaborate on new app developement ideas and like-minded devs
+
+- I'm looking for help with getting more exposure as a young dev
+
+- How to reach me: monica.elyse.nelson@outlook.com
+
+
+
+#### MY name is David, and I love Programing.####
+
+
+
+# now i see that we  were supposed to add changes to the readme file
+
+**BE BOLD**
+
+<ins>Underline</ins>
+
+*Italicize*
+
+~~Strikethrough~~
+
+
+
