@@ -13,6 +13,10 @@ CCAD 18 is a group of exceptional individuals who consistently demonstrate excel
 CCAD 18 continues to inspire and lead by example, proving that teamwork and talent can achieve extraordinary results.
 
 
+#### Justin Falardeau ####
+Justin's favorite color is purple.
+
+
 #### Tristan Payne #### 
 Tristan likes coffee and hanging out with friends. 
 
@@ -49,6 +53,7 @@ Favorit code `Console.WriteLine("Hello World!");`
 *Italicize*
 
 ~~Strikethrough~~
+
 
 
 
