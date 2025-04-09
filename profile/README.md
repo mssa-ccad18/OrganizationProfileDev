@@ -13,6 +13,10 @@ CCAD 18 is a group of exceptional individuals who consistently demonstrate excel
 CCAD 18 continues to inspire and lead by example, proving that teamwork and talent can achieve extraordinary results.
 
 
+#### Tristan Payne #### 
+Tristan likes coffee and hanging out with friends. 
+
+
 #### Mike Katzer ####
 Mike is a new software engineer with a passion for coding and problem-solving. He is dedicated to learning and growing in the tech industry, always eager to take on new challenges.
 In his personal time he enjoys hiking and doing yard work.
@@ -45,5 +49,6 @@ Favorit code `Console.WriteLine("Hello World!");`
 *Italicize*
 
 ~~Strikethrough~~
+
 
 
