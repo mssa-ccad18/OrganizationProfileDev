@@ -13,6 +13,10 @@ CCAD 18 is a group of exceptional individuals who consistently demonstrate excel
 CCAD 18 continues to inspire and lead by example, proving that teamwork and talent can achieve extraordinary results.
 
 
+#### Kyle Griffitts ####
+Kyle enjoys solving problems. 
+
+
 
 #### Luis Moran ####
 Luis is a highly skilled software engineer with a passion for developing innovative solutions. He has a strong background
@@ -84,7 +88,5 @@ Favorit code `Console.WriteLine("Hello World!");`
 *Italicize*
 
 ~~Strikethrough~~
-
-
 
 
