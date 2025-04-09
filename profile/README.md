@@ -14,9 +14,14 @@ CCAD 18 continues to inspire and lead by example, proving that teamwork and tale
 
 
 
+#### Rob Pegram ####
+Rob is probably more confused than it seems
+
+
 #### Victor Chin ####
 Victor's favorite language is C#, he is excited about the future Tech Stacks!
 Favorit code `Console.WriteLine("Hello World!");`
+
 
 #### MY name is David, and I love Programing.####
 
