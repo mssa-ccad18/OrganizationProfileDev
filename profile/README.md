@@ -13,6 +13,11 @@ CCAD 18 is a group of exceptional individuals who consistently demonstrate excel
 CCAD 18 continues to inspire and lead by example, proving that teamwork and talent can achieve extraordinary results.
 
 
+#### Andrew Bazen ####
+Andrew is working towards becoming a software engineer. 
+favorite programming language is C#.
+
+
 
 #### Chris Gosseen ####
 Chris can't wait to get back to the Pacific Northwest to break into the world of software engineering/development.  
