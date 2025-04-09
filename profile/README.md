@@ -13,6 +13,11 @@ CCAD 18 is a group of exceptional individuals who consistently demonstrate excel
 CCAD 18 continues to inspire and lead by example, proving that teamwork and talent can achieve extraordinary results.
 
 
+#### Mike Katzer ####
+Mike is a new software engineer with a passion for coding and problem-solving. He is dedicated to learning and growing in the tech industry, always eager to take on new challenges.
+In his personal time he enjoys hiking and doing yard work.
+
+
 
 #### Isaac Choi 
 Isaac enjoys playing basketball and golf. His favorite programming language is Python. He also has a strong interest in finance and stocks.
@@ -40,4 +45,5 @@ Favorit code `Console.WriteLine("Hello World!");`
 *Italicize*
 
 ~~Strikethrough~~
+
 
