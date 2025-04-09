@@ -13,6 +13,10 @@ CCAD 18 is a group of exceptional individuals who consistently demonstrate excel
 CCAD 18 continues to inspire and lead by example, proving that teamwork and talent can achieve extraordinary results.
 
 
+#### Isaac Choi 
+Isaac enjoys playing basketball and golf. His favorite programming language is Python. He also has a strong interest in finance and stocks.
+
+
 
 #### Rob Pegram ####
 Rob is probably more confused than it seems
@@ -24,5 +28,6 @@ Favorit code `Console.WriteLine("Hello World!");`
 
 
 #### MY name is David, and I love Programing.####
+
 
 
