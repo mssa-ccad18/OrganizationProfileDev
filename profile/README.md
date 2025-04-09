@@ -14,5 +14,5 @@ CCAD 18 continues to inspire and lead by example, proving that teamwork and tale
 
 ### Meet the Team
 
-!# Tim Flinn ####
+# Tim Flinn
 Tim enjoys coding and is a big fan of C# and C++. As a huge nerd, he actively participates in video games, tabletop games, and trading card games.
