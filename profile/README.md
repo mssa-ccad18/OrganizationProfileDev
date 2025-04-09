@@ -13,10 +13,11 @@ CCAD 18 is a group of exceptional individuals who consistently demonstrate excel
 CCAD 18 continues to inspire and lead by example, proving that teamwork and talent can achieve extraordinary results.
 
 
+## Meet the CharminGPT Team
+
 #### Andrew Bazen ####
 Andrew is working towards becoming a software engineer. 
 favorite programming language is C#.
-
 
 
 #### Chris Gosseen ####
@@ -26,16 +27,14 @@ Chris can't wait to get back to the Pacific Northwest to break into the world of
 Kyle enjoys solving problems. 
 
 
-
 #### Luis Moran ####
 Luis is a highly skilled software engineer with a passion for developing innovative solutions. He has a strong background
 in full-stack development and is proficient in various programming languages and frameworks. Luis is known for his 
 problem-solving abilities and his dedication to delivering high-quality work. He is also an excellent communicator, 
 making him a valuable asset to any team.
 
-### Meet the Team
 
-# Tim Flinn
+#### Tim Flinn
 Tim enjoys coding and is a big fan of C# and C++. As a huge nerd, he actively participates in video games, tabletop games, and trading card games.
 
 
