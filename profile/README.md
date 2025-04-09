@@ -12,8 +12,13 @@ CCAD 18 is a group of exceptional individuals who consistently demonstrate excel
 
 CCAD 18 continues to inspire and lead by example, proving that teamwork and talent can achieve extraordinary results.
 
+
 #### Luis Moran ####
 Luis is a highly skilled software engineer with a passion for developing innovative solutions. He has a strong background
 in full-stack development and is proficient in various programming languages and frameworks. Luis is known for his 
 problem-solving abilities and his dedication to delivering high-quality work. He is also an excellent communicator, 
 making him a valuable asset to any team.
+
+#### MY name is David, and I love Programing.####
+
+
