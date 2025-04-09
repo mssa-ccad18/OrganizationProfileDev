@@ -12,3 +12,7 @@ CCAD 18 is a group of exceptional individuals who consistently demonstrate excel
 
 CCAD 18 continues to inspire and lead by example, proving that teamwork and talent can achieve extraordinary results.
 
+### Meet the Team
+
+!# Tim Flinn ####
+Tim enjoys coding and is a big fan of C# and C++. As a huge nerd, he actively participates in video games, tabletop games, and trading card games.
