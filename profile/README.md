@@ -13,7 +13,11 @@ CCAD 18 is a group of exceptional individuals who consistently demonstrate excel
 CCAD 18 continues to inspire and lead by example, proving that teamwork and talent can achieve extraordinary results.
 
 
+
 #### Victor Chin ####
 Victor's favorite language is C#, he is excited about the future Tech Stacks!
 Favorit code `Console.WriteLine("Hello World!");`
+
+#### MY name is David, and I love Programing.####
+
 
