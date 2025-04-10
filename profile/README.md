@@ -90,16 +90,3 @@ Security, Networking, DevOps, Linux, K8s, Python, C#
 Dev with a security first mindset
 
 
-
-# now i see that we  were supposed to add changes to the readme file
-
-**BE BOLD**
-
-<ins>Underline</ins>
-
-*Italicize*
-
-~~Strikethrough~~
-
-
-
