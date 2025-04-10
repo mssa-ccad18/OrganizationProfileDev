@@ -13,7 +13,7 @@ CCAD 18 is a group of exceptional individuals who consistently demonstrate excel
 CCAD 18 continues to inspire and lead by example, proving that teamwork and talent can achieve extraordinary results.
 
 
-## Meet the CharminGPT Team
+## Meet the GitRekt Team
 
 #### Andrew Bazen ####
 Andrew is working towards becoming a software engineer. 
@@ -88,5 +88,8 @@ Favorit code `Console.WriteLine("Hello World!");`
 #### Nicholas Gorton ####
 Security, Networking, DevOps, Linux, K8s, Python, C#
 Dev with a security first mindset
+
+#### Robero Huie ####
+Fashionably late to the party, always. 
 
 
