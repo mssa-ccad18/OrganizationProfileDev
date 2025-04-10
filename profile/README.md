@@ -13,7 +13,7 @@ CCAD 18 is a group of exceptional individuals who consistently demonstrate excel
 CCAD 18 continues to inspire and lead by example, proving that teamwork and talent can achieve extraordinary results.
 
 
-## Meet the CharminGPT Team
+## Meet the GitRekt Team
 
 #### Andrew Bazen ####
 Andrew is working towards becoming a software engineer. 
